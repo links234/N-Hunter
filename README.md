@@ -42,7 +42,7 @@ Music:
 
 Sound:
 
-	- Total Annihilation sounds
-	- Duke Nukem sounds
-	- Dota sounds
-	- www.freesound.org
+ - Total Annihilation sounds
+ - Duke Nukem sounds
+ - Dota sounds
+ - www.freesound.org
