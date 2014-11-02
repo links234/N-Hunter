@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NHunter-Launcher", "NHunter-Launcher\NHunter-Launcher.vcproj", "{40480D91-4101-4B76-A62E-C1D0C1E51911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40480D91-4101-4B76-A62E-C1D0C1E51911}.Debug|Win32.ActiveCfg = Debug|Win32
+		{40480D91-4101-4B76-A62E-C1D0C1E51911}.Debug|Win32.Build.0 = Debug|Win32
+		{40480D91-4101-4B76-A62E-C1D0C1E51911}.Release|Win32.ActiveCfg = Release|Win32
+		{40480D91-4101-4B76-A62E-C1D0C1E51911}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
