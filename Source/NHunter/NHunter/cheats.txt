@@ -1,0 +1,28 @@
+[In-Game cheats]
+WINTERDAY - no overheat
+HEAVYFIRE - 1 hit 1 kill
+COFFESHOP - infinite energy
+REDBULL - 4x speed instead of 2x in SPEED POWER
+IAMCHUCKNORRIS - 1 hit 1 kill, no overheat, infinite energy and infinite hp
+IGOTBALLSOFSTEEL - infinite hp
+SCREWDRIVER - repair robot (gives max hp)
+IAMBORED - instant win
+LIFEISCRUEL - instant dead
+ICECOLD - gives 0.0% heat
+BATTERY - recharge your energy
+FISTOFSTRENGTH - can move boxes without haveing strength enabled
+FIREBOY - every touched and destroyable object is instantly destroyed
+PICKMEPICKME - where you click, there you teleport (if that is posible)
+SHAKEME	- makes an earthshake
+WATERGIRL - makes bullets miss player (won't hit)
+VOIDMASTER - 2x slower time
+UBERBULLET - your bullets go through walls 
+WALLSHOT - instead of oen bullet shots with an wall of bullets
+DIDICHEAT - disable all of enabled cheats
+IWASHERE - save game
+WHEREIWAS - load game
+ARSENAL - enable all weapons
+
+[Menu cheats]
+FUNMODE - opens a multiplayer secret level TFGH+ARROWS for first player WASD+IJKL for second player
+LAZYSUNDAY - unlocks all levels
